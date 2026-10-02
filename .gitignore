@@ -46,3 +46,4 @@ Thumbs.db
 # Azure Functions
 api/local.settings.json
 node_modules
+/.vs/reel.slnx/FileContentIndex
