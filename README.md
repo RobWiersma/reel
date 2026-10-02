@@ -1,3 +1,5 @@
+https://ashy-rock-03c3ecf1e.3.azurestaticapps.net/
+
 # Reel
 
 A Spotify-style player for music videos. Instead of playing the audio, Reel plays the music video from YouTube, with playlists, a queue, and search.
