@@ -25,9 +25,9 @@ A Spotify-style player for music videos. Instead of playing the audio, Reel play
 
 ## Built with Claude
 
-This is the first app I've ever built with [Claude](https://claude.ai), Anthropic's AI assistant. I started with just an idea ("Spotify, but for music videos") and no experience with Angular or Azure beyond the basics.
+This is the first app I've ever built with [Claude](https://claude.ai), Anthropic's AI assistant. I started with just an idea ("Spotify, but for music videos").
 
-Claude helped me plan the architecture, wrote the code, and walked me through the parts I'd never done before: setting up a YouTube API key, running an Azure Function locally, putting the project on GitHub, and deploying to Azure. When something broke, I pasted the error back into the conversation and we fixed it together. The layout, colors, and features all came from going back and forth ("make the video fill the screen," "make the results more verbose," "make it lime green and purple").
+Claude helped me plan the architecture and wrote the code, and I steered the design and features and deployed it to Azure myself. When something broke, I pasted the error back into the conversation and we fixed it together. The layout, colors, and features all came from going back and forth ("make the video fill the screen," "make the results more verbose," "make it lime green and purple").
 
 A few things I learned along the way:
 
